@@ -1,1 +1,1 @@
-#summary From web site (www.truecrypt.org): A Free open-source disk encryption software for Windows Vista/XP/2000 and Linux
+#summary From  [http://www.truecrypt.org web site]: A Free open-source disk encryption software for Windows Vista/XP/2000 and Linux
