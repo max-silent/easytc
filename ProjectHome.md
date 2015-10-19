@@ -1,0 +1,1 @@
+easytc is a simple QT4 based GUI front end for the TrueCrypt application on Linux.
